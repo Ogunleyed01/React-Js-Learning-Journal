@@ -12,16 +12,6 @@ By the end of this 7-day streak, I will:
 - Build my **first React mini project**.  
 - Keep my **GitHub streak alive 🔥**.  
 
----
-
-## 📌 Notes & Reflections  
-- Day 1:  
-- Day 2:  
-- Day 3:  
-- Day 4:  
-- Day 5:  
-- Day 6:  
-- Day 7:  
 
 ---
 
