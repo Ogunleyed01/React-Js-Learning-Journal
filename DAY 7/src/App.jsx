@@ -3,7 +3,7 @@ import Form from './Form'
 import List from './List'
 
 function App() {
-  const API_URL = 'https://jsonplaceholder.typicode.com/'
+  const API_URL = 'https://jsonplaceholder.typicode.com/' 
   const [reqType, setReqType] = useState('users')
   const [items, setItems] = useState([])
 
